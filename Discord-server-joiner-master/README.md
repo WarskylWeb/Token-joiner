@@ -1,0 +1,3 @@
+# Discord server joiner
+A Simple joiner....
+created by Warskyl
